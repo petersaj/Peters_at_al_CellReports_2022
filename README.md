@@ -1,2 +1,13 @@
 # Peters_et_al_CellReports_2022
 Code used to produce figures in "Visuomotor learning promotes visually evoked activity in the medial prefrontal cortex", Peters et al., Cell Reports 2022.
+
+The data loaded by this code is available for download at: LINK COMING SOON
+
+The full codebase used in this paper (and possible dependencies) are in: https://github.com/petersaj/AP_scripts_cortexlab
+
+Included files: AP_ctx_str_figures_published - produces all figures 
+AP_load_concat_normalize_ctx_str - called by figure code (loads and normalizes data) 
+AP_ctx_str_trial_preprocessing - all preprocessing code used to produce data files from raw data 
+AP_ctx_str_grab_trial_data - called by preprocessing script (executes common preprocessing)
+
+Any questions or issues I can address via Github issue
