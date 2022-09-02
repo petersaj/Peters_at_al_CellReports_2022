@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/531614084.svg)](https://zenodo.org/badge/latestdoi/531614084)
+
 Code used to produce figures in "Visuomotor learning promotes visually evoked activity in the medial prefrontal cortex", Peters et al., Cell Reports 2022.
 
 The data loaded by this code is available for download at: https://osf.io/2wh5v/
