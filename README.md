@@ -13,6 +13,6 @@ Included files:
 - operant_grab_trial_data - called by preprocessing script (executes common preprocessing)
 - operant_muscimol_injection_experiments - create database of muscimol injections
 
-Note on paths when running this code with data from OSF: two files (`U_master` and `wf_roi`) can be downloaded from OSF, but their locations are hard-coded in the code. In order to load these, the user will have to change the paths to where these files are stored locally.
+**Note on paths when running this code with data from OSF**: two files (`U_master` and `wf_roi`) can be downloaded from OSF, but their locations are hard-coded in the code. In order to load these, the user will have to change the paths to where these files are stored locally.
 
 Any questions or issues I can address via Github issue
